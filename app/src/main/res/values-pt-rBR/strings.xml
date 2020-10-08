@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meu primeiro app</string>
+    <string name="txtHelloWorld">Olá Mundo!</string>
+    <string name="txtOlaPessoal">Oi teste</string>
+</resources>

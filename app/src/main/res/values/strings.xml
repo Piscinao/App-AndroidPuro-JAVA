@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My first app</string>
+    <string name="txtHelloWorld">Hello World!</string>
+    <string name="txtOlaPessoal">Hi Test</string>
+    <string name="msgLogin">Digite seu Login</string>
+    <string name="msgSenha">Digite sua Senha</string>
+    <string name="msgLogar">Logar</string>
+</resources>
